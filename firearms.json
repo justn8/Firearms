@@ -1,11 +1,13 @@
 {
-  {
-    "name": "m4"
-  }
-  {
-    "name": "ak"
-  }
-  {
-    "name": "mp5"
+  "firearms":{
+    {
+      "name": "m4"
+    }
+    {
+      "name": "ak"
+    }
+    {
+      "name": "mp5"
+    }
   }
 }
