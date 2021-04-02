@@ -2,15 +2,15 @@
     "firearms":[
         
     {
-      "name": "m4"
+      "name": "m4",
       "id": "1"
     },
     {
-      "name": "ak"
+      "name": "ak",
       "id": "2"
     },
     {
-      "name": "mp5"
+      "name": "mp5",
       "id": "3"
     }]
   }
